@@ -1,0 +1,14 @@
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\bin\Debug\net7.0\ProyectoFinalControlVersiones.exe
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\bin\Debug\net7.0\ProyectoFinalControlVersiones.deps.json
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\bin\Debug\net7.0\ProyectoFinalControlVersiones.runtimeconfig.json
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\bin\Debug\net7.0\ProyectoFinalControlVersiones.dll
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\bin\Debug\net7.0\ProyectoFinalControlVersiones.pdb
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\ProyectoFinalControlVersiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\ProyectoFinalControlVersiones.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\ProyectoFinalControlVersiones.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\ProyectoFinalControlVersiones.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\ProyectoFinalControlVersiones.dll
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\refint\ProyectoFinalControlVersiones.dll
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\ProyectoFinalControlVersiones.pdb
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\ProyectoFinalControlVersiones.genruntimeconfig.cache
+C:\Users\isaia\OneDrive\Escritorio\ProyectoFinal\ProyectoFinalControlVersiones\obj\Debug\net7.0\ref\ProyectoFinalControlVersiones.dll
