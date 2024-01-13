@@ -16,31 +16,9 @@
             {
                 case '1':
                     Console.WriteLine("------------Agregar Nuevo Empleado--------------");
-                    Console.WriteLine("Ingrese el Nombre del Empleado: ");
-                    string Nombre = Console.ReadLine();
-                    Console.WriteLine("Ingrese el genero del Empleado: ");
-                    string Genero = Console.ReadLine();
-                    Console.WriteLine("Ingrese el Salario Base del Empleado");
-                    double Salario = double.Parse(Console.ReadLine());
-                    Console.WriteLine("Seleccione el tipo del Empleado a Crear: ");
-                    Console.WriteLine("\t 1) Gerente: ");
-                    Console.WriteLine("\t 2) Vendedor: ");
-                    Console.WriteLine("Tipo: ");
-                    char TipoEmpleado = char.Parse(Console.ReadLine());
-                    switch (TipoEmpleado)
-                    {
-                        case '1':
-                            
-                        case '2':
-
-                            break;
-                        default:
-                            Console.WriteLine("Tipo Invalido");
-                            break;
-                    }
                     break;
                 case '2':
-                    
+                    Console.WriteLine("------------Listado de Empleado--------------");
                     break;
                 case '3':
                     Console.WriteLine("------------Saliendo, Adios--------------");
